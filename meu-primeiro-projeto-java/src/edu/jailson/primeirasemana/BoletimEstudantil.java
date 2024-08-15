@@ -1,3 +1,4 @@
+package edu.jailson.primeirasemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         //SEM IDENTAÇÃO

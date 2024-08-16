@@ -1,4 +1,5 @@
-package edu.jailson.primeirasemana;
+package edu.jailson.primeirosPassos;
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
         //SEM IDENTAÇÃO

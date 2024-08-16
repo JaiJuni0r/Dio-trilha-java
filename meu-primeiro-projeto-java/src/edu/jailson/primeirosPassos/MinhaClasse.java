@@ -1,4 +1,5 @@
-package edu.jailson.primeirasemana;
+package edu.jailson.primeirosPassos;
+
 public class MinhaClasse {
     
     public static void main(String[] args) {

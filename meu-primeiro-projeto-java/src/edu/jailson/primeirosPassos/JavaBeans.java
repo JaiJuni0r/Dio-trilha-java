@@ -1,4 +1,4 @@
-package edu.jailson.primeirasemana;
+package edu.jailson.primeirosPassos;
 
 public class JavaBeans {
     public static void main(String[] args) {

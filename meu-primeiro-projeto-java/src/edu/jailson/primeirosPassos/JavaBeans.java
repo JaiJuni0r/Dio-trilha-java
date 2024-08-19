@@ -38,8 +38,17 @@ public class JavaBeans {
         // findById (int id) {} - Pode acontecer de haver metodos em inglês, mesmo implementando codigo em português. Mas, isso acontece devido a bibliotecas.
 
         // calcularImprimir () {} - Metodo errado. Ele deveria ter uma finalidade especifica.
-
+        
+        System.out.println(salMedio);
+        System.out.println(salarioMedio);
+        System.out.println(myName);
+        System.out.println(meuNome);
+        System.out.println(emailsEscola);
+        System.out.println(email);
+        System.out.println(emails);
     }
+
+    
 
     
 }

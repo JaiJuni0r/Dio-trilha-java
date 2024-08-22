@@ -1,6 +1,16 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println(" ");
+
+        double salarioMinimo = 2500;
+        
+        short numeroCurto = 1;
+        int numeroNormal = numeroCurto;
+        short numerocurto2 = (short) numeroNormal;
+
+        int numero = 2;
+        numero = 1;
+
+        // valor_nunca_podera_mudar ?
 
     }
 }

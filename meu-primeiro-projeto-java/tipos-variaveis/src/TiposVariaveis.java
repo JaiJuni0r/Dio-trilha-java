@@ -7,11 +7,15 @@ public class TiposVariaveis {
         int numeroNormal = numeroCurto;
         short numerocurto2 = (short) numeroNormal;
 
+        //Variaveis podem ser alteradas, como mostra o exemplo abaixo:
         int numero = 2;
         numero = 1;
 
-        // valor_nunca_podera_mudar ?
+        System.out.println(numero);
 
+        //Mas, ao adicionar "final" ao iniciar um valor de variavel, ela será constante, não podendo ter variação de valor. Como mostra o exemplo abaixo:
+
+        final double VALOR_DE_PI = 3.14;
     }
 }
 
